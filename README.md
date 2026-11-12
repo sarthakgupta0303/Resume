@@ -12,5 +12,4 @@ AI-native B2B marketing & sales intelligence · Bangalore, India
 - Raised job-title classification accuracy from 70% to 90% with Data Science
 
 ## Contact
-- Email: sarthakgupta03@gmail.com
 - LinkedIn: [linkedin.com/in/sarthak-gupta-78ab63106](https://linkedin.com/in/sarthak-gupta-78ab63106)
